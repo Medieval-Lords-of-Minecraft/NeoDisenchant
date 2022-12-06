@@ -1,0 +1,14 @@
+name: NeoDisenchant
+main: me.neoblade298.neodisenchant.Main
+author: [Fogthecatman, Neoblade298]
+version: 1.5
+api-version: 1.14
+commands:
+   disenchant:
+      description: This command allows you to disenchant item in hand
+      usage: /disenchant
+      permission: disenchant.true
+   disreload:
+      description: This command allows you to reload disenchant config
+      usage: /disreload
+      permission: disenchant.reload
